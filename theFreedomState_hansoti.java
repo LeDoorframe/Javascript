@@ -1,5 +1,5 @@
 
-/*Name: Manav Vasa
+/*Name: Dhyey Hansoti
  * Date: June 18, 2024
  * Description: The user is asked to play a game with three maps, or city paths to follow.
  * Each map has a different touch to it that will be recognized only when the user plays the 
